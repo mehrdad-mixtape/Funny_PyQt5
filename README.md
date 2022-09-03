@@ -1,4 +1,4 @@
-# Funny_PyQt5
+# Funny_PyQt5 Tutorial
 GUI Programming with PyQt5 + Python
 
 ## Intermediate Python GUI Programming
