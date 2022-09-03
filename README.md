@@ -1,4 +1,4 @@
-# Funny_PyQt5 Tutorial
+# Funny PyQt5 Tutorial
 GUI Programming with PyQt5 + Python
 
 ## Intermediate Python GUI Programming
@@ -7,7 +7,7 @@ GUI Programming with PyQt5 + Python
 
 ### Tutorial:
 - Language: Persian
-- Tutorial: [link rar file](https://drive.google.com/file/d/1wKwOY5Ra-XXenwDaG5X_ltMNSveSv6MB/view?usp=sharing)
+- Video Tutorial: [link rar file](https://drive.google.com/file/d/1wKwOY5Ra-XXenwDaG5X_ltMNSveSv6MB/view?usp=sharing)
 
 ## How to start?:
 
